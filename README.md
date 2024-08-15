@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdul Jaleel and I'm a India, living in UK</h2>
+<h2 align="left">Hi 👋! My name is Abdul Jaleel and I'm from India, living in UK</h2>
 
 ###
 
